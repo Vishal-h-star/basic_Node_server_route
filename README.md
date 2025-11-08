@@ -1,3 +1,17 @@
+## 🚀  Route Screenshots
+
+### 1️⃣ Home Route
+![Home Route](./screenShots/1_home_route.jpg)
+
+### 2️⃣ About route
+![About route](./screenShots/2_about_route.jpg)
+
+### 3️⃣ Contact route
+![contact route](./screenShots/3_contact_route.jpg)
+
+### 4️⃣ 404 nout found
+![If noute not found](./screenShots/4_404%20route_not_found.jpg)
+
 # basic_Node_server_route
 A basic Node.js server that serves static HTML pages (home, about, contact) from a public folder. It also handles static assets like CSS, and images.
 
